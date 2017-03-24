@@ -1,2 +1,2 @@
 # tccbest
-tccbest.com
+https://tccbest.com
