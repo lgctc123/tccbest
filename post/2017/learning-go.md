@@ -22,4 +22,4 @@ tags = ["Go"]
 4. 引用类型：指针、slices、maps、channel，引用存储在堆中，以便进行垃圾回收，且比栈拥有更大的内存空间。
 5. 函数 `fmt.Sprintf` 与 `fmt.Printf` 的作用是完全相同的，不过前者将格式化后的字符串以返回值的形式返回给调用者。
 6. slice内存图
-![](/media/slice_in_memory.png)
+![](http://7xldo8.com1.z0.glb.clouddn.com/slice_in_memory.png)
