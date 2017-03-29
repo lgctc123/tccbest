@@ -18,8 +18,8 @@ tags = ["https"]
 
 去网站注册登录，并完成域名和邮箱验证，完成后看下面
 
-![](/media/nginx/1.png)
-![](/media/nginx/2.png)
+![](http://7xldo8.com1.z0.glb.clouddn.com/1.png)
+![](http://7xldo8.com1.z0.glb.clouddn.com/2.png)
 
 依次点击图片中的链接
 
@@ -30,7 +30,7 @@ openssl req -newkey rsa:2048 -keyout yourname.key -out yourname.csr
 
 会生成两个文件, 复制 .csr 文件中的内容到下图红色处
 
-![](/media/nginx/3.png)
+![](http://7xldo8.com1.z0.glb.clouddn.com/3.png)
 
 提交后进入到 **Tool Box** 下的 **Certificate** List，看到域名了就代表设置成功
 
@@ -61,7 +61,7 @@ server {
 
 到此配置结束，访问网站，变成了HTTPS，并且带上了小绿标
 
-![](/media/nginx/4.png)
+![](http://7xldo8.com1.z0.glb.clouddn.com/4.png)
 
 
 
