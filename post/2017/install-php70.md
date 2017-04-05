@@ -11,7 +11,6 @@ tags = ["PHP"]
 ```
 1. 下载PHP源码包，并解压，进入到源码包目录，以`/root/php-7.0.17`为例
 2. 执行命令
-```
     ./configure --prefix=/usr/local/php70 \
     --enable-fpm \
     --with-fpm-user=www \
@@ -40,7 +39,6 @@ tags = ["PHP"]
     --enable-zip \
     --enable-mysqlnd \
     --with-pear
-```
 3. 在第2步中，通常会缺少扩展，执行`yum install libcurl-devel libxml2-devel gmp-devel libmcrypt-devel readline-devel libxslt-devel libjpeg-devel libpng-devel freetype-devel`
 4. make && make install 
 5. 依次执行以下命令
