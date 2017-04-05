@@ -46,6 +46,7 @@ tags = ["PHP"]
 3. 在第2步中，通常会缺少扩展，执行`yum install libcurl-devel libxml2-devel gmp-devel libmcrypt-devel readline-devel libxslt-devel libjpeg-devel libpng-devel freetype-devel`
 4. make && make install 
 5. 依次执行以下命令
+
 ```
   groupadd www
   useradd -g www www
@@ -58,13 +59,16 @@ tags = ["PHP"]
   ln -sf /usr/local/php70/bin/php /usr/bin/php
   service php-fpm start
 ```
+
   到此，php安装完毕
 6. 使用`pecl`安装扩展:`/usr/local/php70/bin/pecl install mongodb`，在`/usr/local/php70/etc/php.ini`中加入`extension=mongodb.so`
 7. 安装源码`ext`文件夹下的扩展:
+
 ```
 /usr/local/php70/bin/phpize
 cd /root/php-7.0.17/ext/pcntl
 ./configure --with-php-config=/usr/local/php70/bin/php-config
 make && make install
 ```
+
 把扩展名加入到`php.ini`并重启生效
