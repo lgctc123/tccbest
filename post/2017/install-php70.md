@@ -49,6 +49,8 @@ tags = ["PHP"]
   cp php.ini-development /usr/local/php70/etc/php.ini
   cp /usr/local/php70/etc/php-fpm.conf.default /usr/local/php70/etc/php-fpm.conf
   cp /usr/local/php70/etc/php-fpm.d/www.conf.default /usr/local/php70/etc/php-fpm.d/www.conf
+  ln -sf /usr/local/php70/bin/php /usr/local/bin/php
+  ln -sf /usr/local/php70/bin/php /usr/bin/php
   service php-fpm start`
   到此，php安装完毕<br>
 6. 使用`pecl`安装扩展:`/usr/local/php70/bin/pecl install mongodb`，在`/usr/local/php70/etc/php.ini`中加入`extension=mongodb.so`
