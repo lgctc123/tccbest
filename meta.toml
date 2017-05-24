@@ -46,12 +46,12 @@ i18n = "about"
 hover = "about"
 
 [[nav]]
-link = "/2017/3/12/learning-materials.html"
+link = "/links"
 title = "Links"
 i18n = "links"
 hover = "links"
 # browser open in new tab
-#blank = false
+#blank = true
 
 [[author]]
 name = "tcc"
