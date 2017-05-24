@@ -3,7 +3,8 @@
 home = "Home"
 archive = "Archive"
 about = "About"
-source = "Source"
+links = "Links"
+#source = "Source"
 
 # about post
 [post]
