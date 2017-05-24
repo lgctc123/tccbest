@@ -22,9 +22,9 @@ tags = ["Go"]
 4. 引用类型：指针、slices、maps、channel，引用存储在堆中，以便进行垃圾回收，且比栈拥有更大的内存空间。
 5. 函数 `fmt.Sprintf` 与 `fmt.Printf` 的作用是完全相同的，不过前者将格式化后的字符串以返回值的形式返回给调用者。
 6. slice内存图
-![](http://7xldo8.com1.z0.glb.clouddn.com/slice_in_memory.png)
+![](https://dn-myfms.qbox.me/slice_in_memory.png)
 7. new() 和 make() 的区别<br>
     - new(T) 为每个新的类型T分配一片内存，初始化为 0 并且返回类型为*T的内存地址：这种方法 返回一个指向类型为 T，值为 0 的地址的指针，它适用于值类型如数组和结构体；它相当于 &T{}。
     - make(T) 返回一个类型为 T 的初始值，它只适用于3种内建的引用类型：切片、map 和 channel。
     - new 函数分配内存，make 函数初始化；如下图：
-![](http://7xldo8.com1.z0.glb.clouddn.com/diff_new_make.png)
+![](https://dn-myfms.qbox.me/diff_new_make.png)
