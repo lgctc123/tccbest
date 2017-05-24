@@ -49,8 +49,9 @@ hover = "about"
 link = "/2017/3/12/learning-materials.html"
 title = "Links"
 i18n = "links"
+hover = "links"
 # browser open in new tab
-blank = false
+#blank = false
 
 [[author]]
 name = "tcc"
