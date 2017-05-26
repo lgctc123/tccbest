@@ -23,7 +23,7 @@ metadata = "this is meta data"
 
 
 ### PHP
-
+[PHP设计模式教程](http://www.awaimai.com/patterns)<br>
 ------------
 
 ### ElasticSearch
