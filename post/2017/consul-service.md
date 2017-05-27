@@ -10,7 +10,15 @@ draft = false
 tags = ["consul"]
 ```
 
+###consul介绍
+
+[git地址](https://github.com/hashicorp/consul "git地址")
+
 ###使用goapi实现服务注册
+
+> consul地址：10.10.222.19
+服务地址：10.10.92.222
+以下程序使用gin框架实现
 
 ```
     package main
