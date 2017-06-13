@@ -29,4 +29,4 @@ tags = ["git","phpcs","hooks"]
 
 ###git hook中检测
 
-复制[pre-commit](https://github.com/lgctc123/git-hooks/blob/master/phpcs-pre-commit/pre-commit "pre-commit")中的内容到项目中的`.git/hooks/pre-commit`下，在提交代码时，不符合PSR2标准的文件将会报错。
+复制[pre-commit](https://github.com/lgctc123/git-hooks/blob/master/phpcs-pre-commit/pre-commit "pre-commit")中的内容到项目中的`{project_root}/.git/hooks/pre-commit`下，`chmod +x {project_root}/.git/hooks/pre-commit`。在提交代码时，不符合PSR2标准的文件将会报错。
