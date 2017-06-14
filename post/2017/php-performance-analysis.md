@@ -21,10 +21,12 @@ tags = ["tideways","xhgui","php"]
 ##安装xhgui
 英文版地址：[perftools/xhgui](https://github.com/perftools/xhgui "perftools/xhgui")
 中文版地址：[laynefyc/xhgui-branch](https://github.com/laynefyc/xhgui-branch "laynefyc/xhgui-branch")
+
 >注意，xhgui依赖mongodb扩展，务必确保已经安装。安装完毕后修改xhgui/config/config.default.php相应的配置项。
 
 mongodb使用的db默认为`xhprof`，可在xhgui中自行配置。
 为mongodb加索引：
+
      > db.results.ensureIndex( { 'meta.SERVER.REQUEST_TIME' : -1 } )
      > db.results.ensureIndex( { 'profile.main().wt' : -1 } )
      > db.results.ensureIndex( { 'profile.main().mu' : -1 } )
