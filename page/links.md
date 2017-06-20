@@ -25,6 +25,7 @@ metadata = "this is meta data"
 
 ### PHP
 [PHP设计模式教程](http://www.awaimai.com/patterns)<br>
+[深入理解PHP内核](http://www.php-internals.com/book/)<br>
 [PSR标准](https://psr.phphub.org/)<br>
 
 
