@@ -39,5 +39,4 @@ tags = ["mongodb"]
         gzip $archive
     done
 脚本比较烂，不要嘲笑😂
-
 ```
