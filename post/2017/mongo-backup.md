@@ -27,6 +27,7 @@ tags = ["mongodb"]
 
 ##### shell脚本
 由于我的日志是按照日期分天存储，因此比较好导出，脚本如下
+
     #!/bin/bash
     a="mongodump --archive="
     b=".archive"
@@ -38,4 +39,5 @@ tags = ["mongodb"]
         $a$archive $c$collection
         gzip $archive
     done
+
 脚本比较烂，不要嘲笑😂
