@@ -26,7 +26,9 @@ tags = ["高效学习","心灵鸡汤"]
 高效利用时间的案例：**学更多更多的知识，做更多更多的事情**。简直是知识、精神双饱满！！斯考特·杨（Scott Young）**12个月**之内，自学完成了**传说中的MIT计算机科学课程表的全部33门课，从线性代数到计算理论**。按照他的进度，读完一门课程大概只需要1.5个星期。这是我见过的大学生里在学习方面活得最充实的人。
 
 <div align=center>
+
 ![](https://dn-myfms.qbox.me/efficient-learning-0.jpeg)
+
 </div>
 <div align=center>
 关于他的学习方法
@@ -58,6 +60,7 @@ warfalcon 评价如是
 **人，藉由这种仪式带来的仪式感，来给自己一种强烈的自我暗示---------这种自我暗示能够使自我变革，把自己的专注力、反应能力、运动能力迅速提升。**
 
 <div align=center>
+
 ![](https://dn-myfms.qbox.me/efficient-learning-1.jpeg)
 </div>
 
@@ -161,6 +164,7 @@ warfalcon 评价如是
 学习请以**一章为单位**，因为拉长战线会拉长反馈周期，对于学习实际效果不利。如述进行完以上的步骤，读完一章后，可以轻松休息片刻。
 
 <div align=center>
+
 ![](https://dn-myfms.qbox.me/efficient-learning-4.gif)
 </div>
 <div align=center>
@@ -178,6 +182,7 @@ warfalcon 评价如是
 身体能量和情绪能量
 
 <div align=center>
+
 ![](https://dn-myfms.qbox.me/efficient-learning-2.jpeg)
 </div>
 
@@ -218,6 +223,7 @@ warfalcon 评价如是
 那就是，完成规定任务量之后，在某一个热情高涨的时候索性中断学习。这边的需要强调一下，是完成规定任务量之后——中断这个动作是发生在整个学习的后期，而不是你学得一高兴就中断，**你要是这么蠢，只能嫁给我了！！！**
 
 <div align=center>
+
 ![](https://dn-myfms.qbox.me/efficient-learning-3.jpeg)
 </div>
 
