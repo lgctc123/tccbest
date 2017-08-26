@@ -25,13 +25,15 @@ tags = ["高效学习","心灵鸡汤"]
 
 高效利用时间的案例：**学更多更多的知识，做更多更多的事情**。简直是知识、精神双饱满！！斯考特·杨（Scott Young）**12个月**之内，自学完成了**传说中的MIT计算机科学课程表的全部33门课，从线性代数到计算理论**。按照他的进度，读完一门课程大概只需要1.5个星期。这是我见过的大学生里在学习方面活得最充实的人。
 
-<div align="center">
+<div align=center>
 ![](https://dn-myfms.qbox.me/efficient-learning-0.jpeg)
 </div>
-<div align="center">
+<div align=center>
 关于他的学习方法
 warfalcon 评价如是
 </div>
+<br>
+
 ▼
 
 1、**每天学习10小时，10天左右就要考试一次，并通过，这个学习效率非常高，更不用说重复了33次**。在学习一门新的知识时短时间集中注意力不难，但持续一段时间之后，如果做不到很好的放松，只要持续二、三个月左右就会达到一个**瓶颈**，理解能力和心理状态无法继续，这个**瓶颈会重复出现**，就象考研时很多人前几个月都能坚持下去，但到6、8月之后就无法坚持。**重复三次左右会面临一个临界点，度过这后就很容易继续了**。
@@ -55,9 +57,10 @@ warfalcon 评价如是
 
 **人，藉由这种仪式带来的仪式感，来给自己一种强烈的自我暗示---------这种自我暗示能够使自我变革，把自己的专注力、反应能力、运动能力迅速提升。**
 
-<div align="center">
+<div align=center>
 ![](https://dn-myfms.qbox.me/efficient-learning-1.jpeg)
 </div>
+
 <br>
 
 为了保证高效时段得到利用，我把每一次学习当成月考甚至高考一样的对待。
@@ -157,10 +160,10 @@ warfalcon 评价如是
 
 学习请以**一章为单位**，因为拉长战线会拉长反馈周期，对于学习实际效果不利。如述进行完以上的步骤，读完一章后，可以轻松休息片刻。
 
-<div align="center">
+<div align=center>
 ![](https://dn-myfms.qbox.me/efficient-learning-4.gif)
 </div>
-<div align="center">
+<div align=center>
 （真他妈好长啊，小绿人来陪你中场休息，来和我左三圈右三圈吧~）
 </div>
 
@@ -174,7 +177,7 @@ warfalcon 评价如是
 **这是我要提的另一个重点：**
 身体能量和情绪能量
 
-<div align="center">
+<div align=center>
 ![](https://dn-myfms.qbox.me/efficient-learning-2.jpeg)
 </div>
 
@@ -214,7 +217,7 @@ warfalcon 评价如是
 
 那就是，完成规定任务量之后，在某一个热情高涨的时候索性中断学习。这边的需要强调一下，是完成规定任务量之后——中断这个动作是发生在整个学习的后期，而不是你学得一高兴就中断，**你要是这么蠢，只能嫁给我了！！！**
 
-<div align="center">
+<div align=center>
 ![](https://dn-myfms.qbox.me/efficient-learning-3.jpeg)
 </div>
 
