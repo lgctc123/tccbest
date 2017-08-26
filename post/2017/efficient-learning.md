@@ -59,10 +59,9 @@ warfalcon 评价如是
 
 **人，藉由这种仪式带来的仪式感，来给自己一种强烈的自我暗示---------这种自我暗示能够使自我变革，把自己的专注力、反应能力、运动能力迅速提升。**
 
-
-
+<div align=center>
 ![](https://dn-myfms.qbox.me/efficient-learning-1.jpeg)
-
+</div>
 
 <br>
 
