@@ -18,4 +18,5 @@ tags = ["grpc"]
 6.cd $GOPATH/src/golang.org/x
 7.git clone https://github.com/golang/net.git
 8.git clone https://github.com/golang/text.git
+9.go install google.golang.org/grpc
 ```
