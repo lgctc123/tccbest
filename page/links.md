@@ -12,6 +12,11 @@ template = ""
 [meta]
 metadata = "this is meta data"
 ```
+### MySQL
+[MySQL备份](https://dev.mysql.com/doc/refman/5.7/en/mysqldump.html)<br>
+
+-----------
+
 
 ### MongoDB
 [MongoDB学习教程](https://www.gitbook.com/book/piaosanlang/mongodb/details)<br>
