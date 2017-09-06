@@ -10,7 +10,7 @@ draft = false
 tags = ["MySQL"]
 ```
 ```
-mysqldump -uusername -ppassword -h ip database table > file   导出数据库表
-mysql  -uusername -ppassword -h ip < file 导入数据
+mysqldump -uusername -ppassword -h ip db_name table > file   导出数据库表
+mysql  -uusername -ppassword -h ip db_name < file 导入数据
 grant all privileges on *.* to 'user'@'host' identified by 'pass' with grant option 给用户有所有权限（包含授权权限）
 ```
