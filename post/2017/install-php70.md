@@ -43,7 +43,7 @@ tags = ["PHP"]
 --with-pear
 ```
 
-3. 在第2步中，通常会缺少扩展，执行`yum install libcurl-devel libxml2-devel gmp-devel libmcrypt-devel readline-devel libxslt-devel libjpeg-devel libpng-devel freetype-devel`
+3. 在第2步中，通常会缺少扩展，执行`yum install libcurl-devel libxml2-devel gmp-devel libmcrypt-devel readline-devel libxslt-devel libjpeg-devel libpng-devel freetype-devel openssl-devel`
 4. make && make install 
 5. 依次执行以下命令
 
