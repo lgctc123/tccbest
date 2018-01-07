@@ -12,12 +12,10 @@ tags = ["Git"]
 1.直接修改
 ```
 git remote set-url origin [url]
-
 ```
 
 2.先删后改
 ```
 git remote rm origin
 git remote add origin [url]
-
 ```
