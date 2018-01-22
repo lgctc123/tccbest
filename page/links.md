@@ -23,7 +23,7 @@ metadata = "this is meta data"
 [innodb和加锁分析](https://liuzhengyang.github.io/2016/09/25/mysqlinnodb/)<br>
 [Innodb中的事务隔离级别和锁的关系](https://tech.meituan.com/innodb-lock.html)<br>
 [引擎特性 · InnoDB Buffer Pool](https://juejin.im/entry/59f7e995518825569538f149?utm_source=gold_browser_extension)<br>
-
+[MySQL索引原理及慢查询优化](https://tech.meituan.com/mysql-index.html)<br>
 
 -----------
 
