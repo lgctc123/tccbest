@@ -41,6 +41,7 @@ metadata = "this is meta data"
 
 ### PHP
 [PHP设计模式教程](http://www.awaimai.com/patterns)<br>
+[PHP设计模式范例](https://designpatternsphp.readthedocs.io/zh_CN/latest/README.html)<br>
 [深入理解PHP内核](http://www.php-internals.com/book/)<br>
 [PSR标准](https://psr.phphub.org/)<br>
 
@@ -86,6 +87,27 @@ metadata = "this is meta data"
 
 ------------
 
+### 大厂技术团队博客
+[美团点评](https://tech.meituan.com/)<br>
+[有赞](https://tech.youzan.com/)<br>
+[网易乐得](http://tech.lede.com/)<br>
+
+
+
+
+------------
+
+### 免费电子书
+[周读](http://ireadweek.com/index.php/Index/index.html)<br>
+[SoBooks](https://sobooks.cc/)<br>
+
+
+
+
+------------
+
 ### 其他
+[谷歌机器学习速成课程](
+https://developers.google.cn/machine-learning/crash-course/)<br>
 [云栖社区topic导航](https://yq.aliyun.com/topic)<br>
 
